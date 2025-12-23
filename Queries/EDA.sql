@@ -19,5 +19,7 @@ USE New_Prod;
 --SELECT *
 --FROM dbo.ravenstack_support_tickets
 
+-- 10,000 customers from customer churn
+
 SELECT *
 FROM dbo.customer_churn_business_dataset
