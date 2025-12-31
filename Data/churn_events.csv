@@ -1,0 +1,1441 @@
+,churn_event_id,churn_date,reason_code,refund_amount_usd,preceding_upgrade_flag,preceding_downgrade_flag,is_reactivation,feedback_text,account_id
+0,C-816288,,pricing,4.03,False,False,False,switched to competitor,
+1,C-5a81e7,2024-06-25,support,96.45,True,False,False,,
+2,C-a174be,2024-11-12,budget,0.0,,False,False,missing features,
+3,C-accb39,2023-11-01,budget,54.94,False,False,False,switched to competitor,
+4,C-92f889,2024-12-30,unknown,0.0,,True,,too expensive,
+5,C-a8ac26,2024-03-04,features,0.0,,False,False,missing features,
+6,C-2e2966,2024-07-10,features,34.4,True,False,False,,
+7,C-ee531b,2024-09-22,budget,0.0,False,False,False,,
+8,C-e6a0f0,2024-10-31,features,0.0,False,False,False,too expensive,
+9,C-9328ba,2024-10-10,features,0.0,False,False,False,switched to competitor,
+10,,2024-09-18,features,261.49,False,False,False,too expensive,
+11,C-c54ef0,2024-08-30,unknown,77.87,False,False,False,missing features,
+12,C-bb3556,2024-08-08,competitor,0.0,False,False,False,,
+13,C-875dc5,2023-07-21,features,0.0,False,False,False,switched to competitor,
+14,C-c8f7b4,2024-04-14,pricing,175.02,False,False,False,too expensive,
+15,,2024-07-29,,,False,False,False,switched to competitor,
+16,C-102614,2024-07-22,budget,43.53,False,False,False,too expensive,
+17,C-4ab0e2,2024-09-08,support,0.0,True,False,False,missing features,
+18,,2024-05-11,support,11.83,False,False,False,,
+19,C-1f9cf2,2024-04-26,pricing,0.0,False,False,False,switched to competitor,
+20,C-5d5a64,,competitor,0.0,False,False,False,switched to competitor,
+21,C-f81017,2024-08-09,features,,False,False,True,missing features,
+22,C-3292be,2024-10-04,support,22.66,False,False,False,switched to competitor,
+23,C-e582ea,2023-12-04,support,0.0,False,False,False,,
+24,C-100b97,2024-10-06,features,0.0,False,False,False,switched to competitor,
+25,C-8843D4,2024-01-29,support,,False,False,False,missing features,
+26,C-8b3048,2024-08-29,features,0.0,True,False,False,,
+27,C-48F456,,features,0.0,False,False,,missing features,
+28,C-dcdebc,2024-07-13,competitor,225.18,False,False,False,switched to competitor,
+29,C-8b229b,2024-11-29,,98.48,False,True,False,missing features,
+30, C-7d13bf    ,2024-12-02,,0.0,False,False,False,missing features,
+31,C-78a2bb,2024-12-03,features,0.0,True,False,False,switched to competitor,
+32,C-935f48,2024-10-05,unknown,0.0,True,False,False,,
+33,C-366a49,,unknown,68.65,False,,False,switched to competitor,
+34,C-62e7a3,2024-10-20,features,83.94,False,False,False,,
+35,C-f3aca2,2024-11-18,features,133.0,False,False,False,switched to competitor,
+36,C-3b7c60,2024-12-29,competitor,0.0,False,False,False,missing features,
+37,C-736efa,,,0.0,False,,False,,
+38,,,support,35.3,False,False,False,too expensive,
+39,C-2e2a3f,2024-07-10,budget,0.0,,False,,missing features,
+40,C-762dd4,2024-11-30,features,0.0,False,False,False,too expensive,
+41,C-f72425,2023-08-19,budget,0.0,False,False,False,switched to competitor,
+42,C-0e273d,2024-03-14,pricing,0.0,False,False,False,,
+43,C-345bbc,2024-08-03,support,0.0,True,True,False,too expensive,
+44,C-555f55,2024-09-09,budget,0.0,False,True,False,switched to competitor,
+45,C-a26ce8,2024-03-19,support,0.0,False,True,False,missing features,
+46,C-86A446,2024-06-22,budget,0.0,True,False,False,,
+47,C-10ce15,2024-12-14,competitor,32.73,False,False,False,too expensive,
+48,C-2698c2,2023-11-18,features,,False,False,False,,
+49,c-48906a,2024-11-11,budget,0.0,True,False,False,missing features,
+50,C-4f7342,2024-11-13,pricing,,False,False,False,switched to competitor,
+51,C-23b1d0,,unknown,47.06,False,False,False,,
+52,C-7f909a,2024-11-26,features,0.0,False,False,False,switched to competitor,
+53,C-F208D4,2024-10-25,competitor,0.0,False,False,False,missing features,
+54,C-acbc2b,2024-12-16,budget,0.0,False,False,False,,
+55,C-859615,2024-06-01,competitor,0.0,,False,False,,
+56,C-035985,2024-01-15,pricing,0.0,False,False,False,too expensive,
+57,C-7cace4,2023-12-29,support,0.0,False,False,False,,
+58,C-06a2e6,2024-10-31,competitor,0.0,True,False,False,too expensive,
+59,C-eb9d5e,2024-09-28,unknown,0.0,False,False,False,switched to competitor,
+60,C-a45909,2024-12-06,support,0.0,False,False,False,,
+61,C-7f85f4,2024-07-27,unknown,53.61,False,False,False,switched to competitor,
+62,, 2023-12-19    ,unknown,0.0,False,False,False,too expensive,
+63,C-0ba0a0,2024-10-17,pricing,0.0,False,False,False,,
+64, C-d05e42    ,,support,0.0,False,False,False,,
+65,C-8d3540,2024-12-12,competitor,50.41,,False,False,,
+66,C-bedd8c,2024-11-16,unknown,0.0,False,False,False,,
+67,C-1cea52,2024-12-25,budget,0.0,True,False,False,,
+68,C-1e0b1a,2024-08-11,competitor,148.0,False,False,False,switched to competitor,
+69,C-c4e7a7,2023-10-19,,0.0,False,False,False,missing features,
+70,C-915973,2024-09-26,budget,0.0,False,False,False,missing features,
+71,C-a403fc,2024-11-21,support,0.0,False,False,False,too expensive,
+72,,2024-09-04,pricing,0.0,False,False,False,too expensive,
+73,c-a54597,2024-03-24,features,0.0,False,False,False,missing features,
+74,C-7ab794,,support,0.0,False,False,False,too expensive,
+75,C-7cd070,,pricing,6.51,False,True,True,switched to competitor,
+76,,2024-02-27,pricing,0.0,False,False,False,,
+77,C-bb9db4,2024-11-22,pricing,27.75,False,False,False,switched to competitor,
+78,C-0a0bf7,2024-04-12,competitor,0.0,False,False,False,missing features,
+79,C-64ba8a,2024-09-12,budget,0.0,True,False,False,missing features,
+80,C-fab429,2024-09-12,,0.0,False,False,False,,
+81,C-872bcf,2024-09-07,budget,0.0,False,False,False,,
+82,C-480232,2024-09-23,competitor,0.0,False,False,True,too expensive,
+83,C-108b2a,2024-09-21,competitor,0.0,False,False,False,switched to competitor,
+84,C-775d4e,2024-12-25,support,0.0,False,False,False,,
+85,,2024-06-27,budget,0.0,False,False,True,,
+86,C-2dbe71,2024-06-14,budget,4.52,False,False,False,too expensive,
+87,C-b60cf0,2024-03-10,unknown,,True,False,False,missing features,
+88,C-f24343,2023-09-03,budget,0.0,False,False,True,missing features,
+89,,2024-06-10,features,27.62,True,False,False,missing features,
+90,C-9d36da,2024-08-17,competitor,0.0,False,False,True,,
+91,,2024-09-22,budget,0.0,False,False,False,too expensive,
+92,C-5cd282,2024-11-20,budget,0.0,False,False,False,,
+93,C-95f56e,2024-10-09,unknown,,True,False,False,switched to competitor,
+94,C-bd5b55,,budget,0.0,False,,False,switched to competitor,
+95,C-b8127e,2024-08-13,support,0.0,False,False,False,missing features,
+96,,2024-12-19,features,0.0,False,True,False,missing features,
+97,C-b6b828,2024-06-17,support,0.0,False,False,False,,
+98,C-a666a4,2024-12-28,unknown,7.26,True,False,False,,
+99,C-72d074,2024-12-17,features,0.0,False,False,False,too expensive,
+100,C-ced436,2023-03-21,support,0.0,True,False,False,missing features,
+101,C-2cccb0,2024-12-23,support,0.0,True,False,False,switched to competitor,
+102,C-b08dda,2024-07-09,features,28.95,False,False,False,,
+103,C-66d447,2024-09-13,support,17.34,False,False,False,missing features,
+104,C-860574,2024-10-11,budget,0.0,False,False,True,switched to competitor,
+105,C-a4f797,2024-11-07,budget,0.0,False,False,False,switched to competitor,
+106,C-4Dfeb8,,unknown,45.83,False,False,False,switched to competitor,
+107,C-d3449f,2023-08-10,pricing,0.0,False,False,False,missing features,
+108,C-1a5a14,2024-09-06,support,0.0,False,False,False,too expensive,
+109,C-6c63bc,2024-03-30,features,0.0,False,False,False,missing features,
+110,C-1f5828,2023-12-21,unknown,,False,False,False,switched to competitor,
+111,C-8203f3,2024-06-20,pricing,0.0,False,False,False,switched to competitor,
+112,C-f518d9,2024-02-10,competitor,0.0,False,False,True,,
+113,C-974322,2024-07-18,unknown,0.0,True,False,False,missing features,
+114,C-6b610a,2024-07-12,competitor,0.0,False,False,False,missing features,
+115,C-61ced5,2024-03-21,competitor,0.0,,False,False,missing features,
+116,C-bb8317,,features,0.0,False,False,False,,
+117,C-576ecc,2024-01-21,features,0.0,False,False,False,,
+118,C-2608a3,2024-12-17,features,0.0,False,True,False,too expensive,
+119,C-30462f,,budget,,False,False,False,switched to competitor,
+120,C-bc6f48,2023-07-31,pricing,0.0,,False,False,,
+121,C-8052a7,2024-08-20,features,0.0,False,False,False,,
+122,C-3b399f,2024-12-08,features,0.0,True,False,False,,
+123,C-a761a8,2024-09-12,unknown,0.0,False,True,True,too expensive,
+124,C-192e1d,2024-11-13,unknown,0.0,False,False,False,too expensive,
+125,,2024-09-11,support,0.0,,False,False,switched to competitor,
+126,c-3db212,2024-11-09,budget,101.23,False,False,False,,
+127,C-47cdaa,,features,83.06,False,,False,missing features,
+128,C-ac853d,2024-11-26,support,0.0,False,True,False,switched to competitor,
+129,C-a24d30,2024-04-07,budget,0.0,False,False,False,,
+130,C-23a031,2024-10-16,pricing,0.0,False,False,False,,
+131,C-178070,2023-10-21,support,0.0,False,False,False,too expensive,
+132,C-70DE89,2024-12-22,pricing,46.49,False,False,False,switched to competitor,
+133,C-49de12,2024-11-13,unknown,0.0,False,True,False,too expensive,
+134,,2024-12-29,features,0.0,False,False,False,switched to competitor,
+135,C-23df1e,2024-12-30,support,25.41,True,False,False,,
+136,,2024-09-21,pricing,10.91,False,False,,too expensive,
+137,C-48c0c8,2024-12-06,competitor,0.0,,True,True,too expensive,
+138,C-eaa652,2024-06-03,competitor,0.0,True,False,,missing features,
+139,C-75e17f,2023-05-05,budget,0.0,False,False,False,too expensive,
+140,,2024-11-26,unknown,1.55,False,False,False,too expensive,
+141,C-4d517f,,support,0.0,False,False,False,switched to competitor,
+142,C-50dbff,2024-08-09,budget,0.0,False,False,False,switched to competitor,
+143,C-2d03fc,2023-06-24,pricing,0.0,False,False,False,missing features,
+144,C-8bf15d,2024-03-19,competitor,64.98,False,False,False,too expensive,
+145,C-c6998d,2024-12-08,budget,0.0,True,False,False,missing features,
+146,C-f8d15f,2024-10-03,unknown,0.0,False,False,,,
+147,C-8eba65,2024-10-10,features,0.0,False,False,False,switched to competitor,
+148,, 2024-05-17    ,,0.0,False,False,False,missing features,
+149,C-1E4B49,2023-04-24,,0.0,False,False,False,switched to competitor,
+150,C-354790,2024-02-12,pricing,0.0,False,False,False,missing features,
+151,, 2024-09-27    ,,90.9,False,False,False,switched to competitor,
+152,C-eb8f3d,2024-12-13,unknown,74.68,False,False,False,too expensive,
+153,,2023-09-24,support,0.0,False,False,False,missing features,
+154,C-033d73,2024-08-03,unknown,0.0,,False,False,,
+155,C-2b7d9b,2024-03-09,support,0.0,False,True,False,,
+156,C-6e6bcf,,budget,0.0,False,False,False,,
+157,C-e26b7f,,budget,0.0,,False,False,too expensive,
+158,C-626a5c,2024-04-18,unknown,0.0,False,False,False,missing features,
+159,C-fd2fe4,2024-12-09,budget,0.0,False,False,False,too expensive,
+160,C-049f10,2023-03-04,support,0.0,False,False,False,,
+161,C-57871b,2024-07-19,budget,0.0,,False,False,,
+162,C-fafb31,2024-06-18,features,,True,False,False,missing features,
+163,C-8a3bc6,2024-10-13,support,0.0,False,False,False,switched to competitor,
+164,C-8f9053,,pricing,0.0,False,False,,missing features,
+165,C-7690f5,2024-04-05,budget,44.23,True,False,False,missing features,
+166,C-fb91f8,,competitor,0.0,True,False,,,
+167,C-02604c,2024-11-09,features,0.0,False,,True,too expensive,
+168,,2024-11-25,pricing,0.0,False,False,False,too expensive,
+169,C-df72bb,2024-04-10,features,0.0,True,False,False,,
+170,C-a41660,2024-10-09,features,,False,False,True,,
+171,C-3e764b,2023-09-11,competitor,0.0,False,False,False,too expensive,
+172,C-f46a9e,2024-04-09,features,0.0,False,False,False,missing features,
+173,C-864f6f,2024-01-08,pricing,0.0,False,True,False,switched to competitor,
+174,C-2cec1c,2024-10-24,budget,68.99,False,False,False,,
+175,C-bc2761,2024-02-08,competitor,0.0,False,False,False,too expensive,
+176,,2024-10-24,budget,0.0,False,False,False,switched to competitor,
+177,C-7e1bbd,2024-12-18,budget,0.0,True,False,False,,
+178,C-6cbc28,2024-12-05,unknown,0.0,False,False,False,switched to competitor,
+179,C-13f833,2024-09-05,budget,0.0,False,False,False,missing features,
+180,,2024-08-10,budget,0.0,False,False,False,,
+181,C-5d5768,2024-08-15,pricing,0.0,False,True,False,too expensive,
+182,C-8ab44a,2024-08-27,competitor,0.0,True,,False,too expensive,
+183,C-575802,2024-06-30,competitor,13.72,False,False,False,too expensive,
+184,C-b38b8a,2023-12-08,budget,105.26,False,False,False,too expensive,
+185,C-e601dc,2023-10-17,competitor,0.0,False,False,False,,
+186,C-bc805f,2024-09-08,unknown,0.0,False,False,False,too expensive,
+187,C-8d2bf5,2024-04-23,pricing,0.0,True,,True,switched to competitor,
+188,C-ae25d5,2024-12-04,pricing,,True,False,,,
+189,C-d20b00,2024-06-19,budget,0.0,True,False,False,,
+190,C-0baa74,2024-11-28,support,43.01,False,False,False,switched to competitor,
+191,C-7762fe,2024-09-12,unknown,0.0,True,False,False,missing features,
+192,C-70ab02,2024-01-21,pricing,0.0,True,False,False,missing features,
+193,C-4c2a9f,2023-12-09,competitor,0.0,True,False,False,missing features,
+194,C-5b6094,2024-11-04,budget,0.0,False,False,False,too expensive,
+195,C-c5e093,2024-11-13,features,0.0,False,,True,too expensive,
+196,C-94eebe,2024-04-17,unknown,0.0,True,False,False,switched to competitor,
+197,c-65ad11,2024-12-13,support,0.0,False,False,False,,
+198,C-ebc01c,2024-12-07,features,0.0,False,True,False,switched to competitor,
+199,,2023-06-16,unknown,0.0,False,,False,,
+200,C-26576c,2024-01-14,features,0.0,False,False,False,too expensive,
+201,C-f6fba0,2024-11-03,features,0.0,False,False,True,,
+202,C-cfa54b,2024-03-22,budget,6.26,False,True,,,
+203,C-260dec,2024-09-14,pricing,9.28,False,False,False,,
+204,C-947b6b,2024-04-28,pricing,0.0,False,False,False,missing features,
+205,C-0af764,2024-05-05,competitor,,True,False,False,too expensive,
+206,C-e91da6,2024-05-07,pricing,0.0,True,False,False,,
+207,C-2d8e22,2024-10-07,support,0.0,False,False,False,switched to competitor,
+208,C-47694C,2024-10-23,budget,59.52,False,False,False,,
+209,C-b6549a,2023-11-04,,35.6,False,False,False,missing features,
+210,C-258ade,2024-11-28,pricing,6.6,False,False,False,,
+211,C-8eda06,2024-03-18,unknown,0.0,False,False,,,
+212,C-07be44,2024-11-05,budget,0.0,False,False,True,missing features,
+213,C-62daa0,2024-03-31,pricing,0.0,False,False,False,too expensive,
+214,C-7d6220,2024-06-23,features,0.0,False,False,False,too expensive,
+215,,2024-05-30,support,34.35,False,False,False,too expensive,
+216,C-02a354,2024-11-24,competitor,25.92,False,False,False,,
+217,C-5f43c3,2024-12-29,pricing,0.0,False,False,False,missing features,
+218,,2024-12-04,competitor,0.0,True,False,False,switched to competitor,
+219,C-7074f9,2024-07-16,support,0.0,False,False,False,too expensive,
+220,C-7befdc,2024-08-11,features,0.0,False,False,False,too expensive,
+221, C-a72f7f    ,2023-03-05,budget,0.0,False,False,False,switched to competitor,
+222,C-065699,,support,0.0,False,False,False,too expensive,
+223,C-17044c,2024-10-04,features,75.32,False,False,True,,
+224,C-d716da,2024-12-21,budget,125.6,False,False,False,missing features,
+225,C-dd2ad2,2024-09-01,features,0.0,False,False,False,,
+226,C-2c410a,2024-12-23,features,0.0,True,,True,missing features,
+227,C-5f93ed,2023-12-16,unknown,0.0,False,False,False,missing features,
+228,C-f79e5e,2024-09-18,unknown,0.0,False,False,False,switched to competitor,
+229,C-c9b84b,2024-12-04,features,0.0,False,False,False,,
+230,C-aee993,2024-06-01,support,0.0,False,False,False,too expensive,
+231,C-cc8de6,2024-09-25,support,0.0,True,False,False,missing features,
+232,C-f1773a,2024-05-15,support,0.0,,False,False,switched to competitor,
+233,C-fe3853,,competitor,0.0,True,True,,too expensive,
+234,C-770066,2024-01-05,budget,,False,False,False,switched to competitor,
+235,C-449318,,features,0.0,False,False,False,too expensive,
+236,C-e2ecb7,2024-12-11,,0.0,False,False,False,,
+237,C-211191,2024-10-12,support,0.0,True,False,False,,
+238,C-55f4ec,2024-07-20,pricing,,False,False,False,too expensive,
+239,C-695fcd,2024-11-23,budget,0.0,False,False,False,switched to competitor,
+240,C-921335,2024-07-23,features,0.0,False,False,False,too expensive,
+241,C-9776b7,2023-12-08,budget,,False,,False,switched to competitor,
+242,C-b3d895,2024-12-27,support,43.6,False,False,False,too expensive,
+243,C-1965c1,2024-10-08,competitor,0.0,False,False,False,,
+244,C-0ec68d,2024-02-19,features,0.0,False,False,False,too expensive,
+245,C-08d3b3,2024-12-21,budget,0.0,False,,True,switched to competitor,
+246,C-466a70,2023-06-23,pricing,0.0,True,False,False,too expensive,
+247,C-02f4fa,2024-11-13,unknown,0.0,False,False,False,too expensive,
+248,C-ac34ca,2024-12-02,budget,0.0,True,True,False,,
+249,C-92f5cb,2024-08-29,support,0.0,False,False,False,missing features,
+250,C-08b126,2024-09-26,budget,0.0,True,False,True,too expensive,
+251,C-9cc7a5,2024-09-18,,0.0,,False,False,too expensive,
+252,,2024-06-04,support,0.0,False,False,False,too expensive,
+253,C-be8018,2024-07-03,unknown,0.0,False,False,False,too expensive,
+254,C-23ca8f,2024-10-03,,0.0,False,True,False,,
+255,C-2d0569,2023-11-11,features,174.92,False,False,False,,
+256,C-4c523f,2024-03-12,unknown,,False,False,False,switched to competitor,
+257,C-57a768,2024-04-18,features,,False,False,False,switched to competitor,
+258,,2024-11-23,support,0.0,False,False,,missing features,
+259,C-b7dfcd,2024-08-08,support,122.11,False,False,False,too expensive,
+260,C-8c9a9a,2024-08-10,features,0.0,True,False,False,too expensive,
+261,C-2ce12e,2024-11-26,pricing,0.0,False,False,True,,
+262,C-18b303,2024-06-07,unknown,96.35,False,False,False,missing features,
+263,C-b6bc5f,2024-11-23,competitor,0.0,False,True,True,switched to competitor,
+264, C-8cce4c    ,2023-12-23,support,0.0,False,False,False,missing features,
+265,C-8fcdf5,2024-12-27,budget,0.0,False,False,False,too expensive,
+266,C-ddade1,2024-12-30,features,0.0,False,False,True,,
+267,C-5689de,2024-01-03,unknown,21.17,False,False,False,,
+268,C-2f61e8,2023-07-12,competitor,0.0,False,False,False,,
+269,C-4dc992,2023-03-11,unknown,0.0,,False,False,,
+270,C-17fb24,2024-12-19,unknown,217.22,False,False,False,too expensive,
+271,C-21efb6,2024-07-13,competitor,0.0,False,False,False,switched to competitor,
+272,C-486194,2024-12-29,features,0.0,True,False,True,missing features,
+273,C-3091b6,2024-10-03,unknown,,False,False,False,,
+274,C-b37401,2024-12-19,unknown,0.0,False,False,False,,
+275,C-c93006,2023-11-16,competitor,0.0,,True,False,too expensive,
+276,,2024-12-05,competitor,0.0,True,False,False,,
+277,,2024-10-13,budget,,False,False,False,switched to competitor,
+278, C-f5a863    ,,budget,6.2,False,False,True,,
+279,C-056c32,2024-03-20,pricing,0.0,False,False,False,switched to competitor,
+280,C-75abb3,2024-06-25,,0.0,True,False,False,missing features,
+281,C-17377e,,pricing,0.0,False,False,False,missing features,
+282,C-d84a6d,2024-11-12,pricing,0.0,False,False,False,missing features,
+283,C-66b3fa,,pricing,0.0,False,False,False,switched to competitor,
+284,c-600a7c,2024-10-03,support,0.0,False,True,False,,
+285,C-7aa94d,2024-12-25,features,19.34,False,False,False,too expensive,
+286,C-c6a403,2024-05-04,budget,0.0,False,False,True,missing features,
+287,C-d3e2ab,2023-10-18,competitor,0.0,False,False,True,missing features,
+288,C-b3c3ce,2024-10-15,features,0.0,False,False,False,,
+289,,2024-12-29,budget,0.0,False,False,False,too expensive,
+290,C-2447b3,2024-03-24,support,0.0,False,False,,missing features,
+291,c-155feb,2024-05-17,support,0.0,False,False,False,,
+292,C-5f450a,2024-12-20,support,0.0,False,,False,switched to competitor,
+293,C-721738,2024-06-26,pricing,0.0,False,False,,missing features,
+294,C-33fc6a,2024-12-19,features,0.0,False,True,,,
+295,C-4691eb,2024-05-19,unknown,0.0,True,False,False,,
+296,C-2cec7e,2024-12-28,budget,0.0,True,False,False,too expensive,
+297,C-71ff03,2023-05-25,features,0.0,False,True,False,too expensive,
+298,C-2a64c7,2024-06-17,budget,0.0,False,False,False,,
+299,C-5899b9,2023-06-29,support,0.0,True,False,False,,
+300,C-7e5a22,2024-12-09,features,0.0,False,False,False,,
+301,C-C3815E,2024-12-04,unknown,0.0,False,False,False,switched to competitor,
+302,C-190a42,2024-12-16,,114.86,False,False,False,,
+303,,2024-07-10,,0.0,True,False,,too expensive,
+304,C-3b6b00,2023-08-24,,17.93,False,False,False,too expensive,
+305,C-42ca6e,2024-02-02,pricing,0.0,True,False,False,too expensive,
+306, C-d9a1f3    , 2024-12-17    ,budget,,False,False,False,,
+307,C-217360,2024-12-03,pricing,31.49,False,False,False,too expensive,
+308,C-aa3075,2024-12-27,budget,0.0,False,False,False,missing features,
+309,C-3f2f59,2024-06-17,,0.0,False,False,False,missing features,
+310,C-4f6e40,2024-08-11,features,0.0,False,False,False,too expensive,
+311,C-2f95dd,2023-03-26,competitor,154.0,False,,False,switched to competitor,
+312,C-38b77f,2024-01-18,features,0.0,False,False,False,switched to competitor,
+313,C-58DEED,,,0.0,False,False,False,too expensive,
+314,,2024-04-15,budget,0.0,False,False,False,switched to competitor,
+315,C-5d91cd,2024-08-09,features,0.0,False,False,False,,
+316,C-bfcee5,2024-12-31,support,0.0,False,False,False,,
+317,C-450414,2024-12-26,budget,0.0,True,False,,switched to competitor,
+318,C-dd4207,2024-08-05,competitor,47.17,False,False,False,missing features,
+319,C-d4c4c6,2024-03-05,unknown,71.44,False,False,False,,
+320,C-149fc9,2024-12-05,competitor,0.0,False,False,False,switched to competitor,
+321,C-de3fd0,2024-08-16,pricing,0.0,,False,False,missing features,
+322,C-577ffa,2024-06-04,support,0.0,True,,False,too expensive,
+323,C-a77075,2023-01-25,pricing,0.0,True,False,False,switched to competitor,
+324,C-4cdb6f,2024-06-15,pricing,,False,False,False,missing features,
+325,,2024-04-12,competitor,0.0,False,False,False,switched to competitor,
+326,C-0f0386,2024-09-17,budget,64.22,False,False,False,switched to competitor,
+327,C-3c8ea9,2023-11-10,support,35.05,True,False,False,,
+328,C-66c9fe,,features,0.0,False,False,False,,
+329,C-533d1c,2024-07-19,competitor,0.0,False,False,False,,
+330,,2024-10-12,support,28.84,,True,,missing features,
+331,C-16ef52,,features,0.0,False,False,False,switched to competitor,
+332,C-6d80a6,2024-08-21,,0.0,False,False,False,missing features,
+333,C-23d5a9,2024-09-22,pricing,0.0,False,False,False,too expensive,
+334,,2024-08-01,unknown,7.92,False,False,False,too expensive,
+335,C-A8E84B,2024-06-06,features,0.0,False,False,False,missing features,
+336,C-edb201,2024-10-15,features,0.0,False,False,False,too expensive,
+337,C-92e7a2,2024-10-05,unknown,0.0,True,False,False,missing features,
+338,C-990050,2024-12-01,features,0.0,False,False,False,missing features,
+339,C-e49016,2024-09-01,competitor,111.42,False,False,True,switched to competitor,
+340,C-151fb1,2024-12-19,support,0.0,True,False,True,missing features,
+341,C-9b229e,2024-06-12,pricing,0.0,False,False,True,too expensive,
+342,C-d33672,2024-07-11,budget,12.99,False,False,True,,
+343,C-f180f4,2024-10-01,competitor,0.0,False,False,,too expensive,
+344,C-d8d1fd,2024-08-07,competitor,4.45,False,False,False,,
+345,C-f918d7,,features,69.59,False,False,False,,
+346,C-a77cbf,2023-10-04,unknown,0.0,False,False,True,too expensive,
+347,C-f5dfda,,competitor,34.87,True,True,True,missing features,
+348,C-9b80de,2024-12-01,pricing,132.32,False,False,False,missing features,
+349,C-515343,2024-10-23,budget,0.0,True,False,False,too expensive,
+350,C-da7b0d,2023-08-04,pricing,0.0,False,False,False,missing features,
+351,C-efed73,2024-10-23,competitor,0.0,True,False,False,missing features,
+352,C-8d2855,2024-12-30,pricing,0.0,,False,False,,
+353,C-992f28,2023-04-29,competitor,38.15,False,False,False,too expensive,
+354,C-d47c85,2024-12-17,support,0.0,False,False,False,switched to competitor,
+355,C-ad8b54,2024-09-13,support,0.0,True,False,False,,
+356,C-89198d,2024-10-21,competitor,0.0,,False,False,,
+357,C-f33efc,2024-10-30,support,0.0,True,True,False,switched to competitor,
+358,C-13ca3a,2024-03-23,features,43.03,False,False,False,,
+359,C-07f6e3,2023-06-06,budget,0.0,False,,False,too expensive,
+360,C-65b589,2024-12-05,competitor,0.0,False,True,False,switched to competitor,
+361,C-ea6df1,2024-04-07,budget,0.0,False,False,False,switched to competitor,
+362,C-f78dc9,2024-09-21,budget,0.0,False,False,False,,
+363,C-9d9bff,2024-06-17,features,0.0,False,False,False,too expensive,
+364,C-9D8799,2024-01-01,features,0.0,True,False,False,too expensive,
+365,C-2fb169,2024-10-09,pricing,2.4,False,False,False,too expensive,
+366,,2024-04-20,pricing,0.0,False,False,False,too expensive,
+367,,,support,106.67,False,False,False,missing features,
+368,C-27770c,2024-06-19,,,False,False,False,too expensive,
+369,C-118bea,2024-12-02,budget,0.0,,False,,missing features,
+370,C-cf17ca,2024-12-17,,,False,False,False,too expensive,
+371,C-25c0d2,2024-10-10,budget,0.0,False,True,False,missing features,
+372,c-05224a,2023-05-03,pricing,0.0,True,False,False,,
+373,,,unknown,,False,False,False,switched to competitor,
+374,C-14ac13,2024-12-18,features,0.0,,False,True,too expensive,
+375,C-fa1c87,2024-03-20,features,0.0,False,False,False,switched to competitor,
+376,C-29b7f7,2024-08-30,unknown,0.0,False,False,False,missing features,
+377,C-22b92e,2024-04-03,features,0.0,False,False,False,too expensive,
+378,C-46580a,2024-03-03,unknown,0.0,False,False,False,missing features,
+379,C-ef9abf,2024-10-07,features,21.61,True,False,,too expensive,
+380,C-88a176,2024-12-06,support,11.13,False,True,False,,
+381,C-681c7b,2024-05-09,competitor,2.42,False,False,False,missing features,
+382,C-ca1941,2024-11-03,pricing,0.0,False,False,False,too expensive,
+383,,2024-12-08,unknown,0.0,False,False,False,missing features,
+384,C-5328d6,2024-12-31,competitor,0.0,False,False,False,,
+385,C-cd7797,2024-08-26,pricing,0.0,False,False,False,,
+386,C-7f0644,2024-10-17,budget,0.0,False,False,False,too expensive,
+387,C-2d4533,2024-10-22,features,,False,False,False,switched to competitor,
+388,c-d9410c,2024-06-19,pricing,136.0,False,,False,missing features,
+389,,2024-11-09,competitor,0.0,False,False,True,missing features,
+390,C-3018d4,2024-10-19,unknown,1.85,True,False,False,,
+391,C-fcbd6e,2024-11-13,features,0.0,False,,,switched to competitor,
+392,c-79999b,2024-10-10,pricing,0.0,False,False,False,too expensive,
+393,C-62ad35,2024-12-02,budget,0.0,False,False,False,,
+394,C-f0bd80,2024-11-14,pricing,0.0,False,False,False,,
+395,C-F49D4C,2024-12-16,unknown,0.0,False,False,False,switched to competitor,
+396,C-462222,2023-10-07,support,0.0,False,,False,too expensive,
+397,C-f68651,2024-12-12,unknown,0.0,False,False,False,,
+398,C-9c4603,2024-09-21,support,7.6,,False,False,switched to competitor,
+399,c-c179a3,2024-04-25,features,0.0,False,True,False,missing features,
+400,C-2c9dae,2024-11-25,features,0.0,False,False,False,,
+401,C-2c86b1,2024-03-02,support,0.0,True,False,False,missing features,
+402,C-1172fe,2024-06-17,support,64.54,False,False,False,missing features,
+403,C-4f6d90,2024-11-15,features,178.84,False,False,False,missing features,
+404,C-f51f1d,2024-04-28,competitor,0.0,False,False,False,too expensive,
+405,C-bd5e5e,2024-12-09,budget,35.14,False,,False,too expensive,
+406,C-9fd0cf,2024-07-22,unknown,,False,False,False,switched to competitor,
+407,C-dcbfa4,2024-08-25,features,35.48,True,False,False,too expensive,
+408,C-f1268a,2024-07-19,budget,7.58,True,,True,missing features,
+409,C-0b2d8c,2024-01-02,unknown,0.0,False,False,False,switched to competitor,
+410,,2024-12-24,support,8.47,True,False,False,switched to competitor,
+411,C-fba952,2024-12-27,pricing,0.0,False,False,False,too expensive,
+412,C-E4261A, 2024-12-30    ,budget,0.0,False,False,False,missing features,
+413,C-ab36fc,2024-10-03,competitor,0.0,False,False,False,,
+414,C-fdb715,2024-10-11,unknown,0.0,False,False,False,,
+415,C-FCFC3C,2024-09-11,support,0.0,True,False,False,switched to competitor,
+416,C-a119b0,2024-12-09,unknown,136.94,False,False,False,missing features,
+417,C-cdb4d0,2024-10-05,support,0.0,False,,False,,
+418,C-d08588,2024-01-15,budget,0.0,False,False,False,too expensive,
+419, C-1eead2    ,2024-12-26,support,51.18,True,False,False,too expensive,
+420,C-9b6151,2024-08-15,competitor,,False,False,True,switched to competitor,
+421,C-cfb464,2024-05-26,,0.0,False,False,False,,
+422, C-249af9    , 2024-08-29    ,pricing,128.79,False,False,False,switched to competitor,
+423,C-193426,2024-12-24,unknown,0.0,False,False,False,,
+424,C-6a6704,2024-05-08,support,128.0,False,False,,switched to competitor,
+425,C-e41103,2024-05-04,competitor,0.0,False,False,False,,
+426,C-53546c,2024-10-19,,0.0,False,True,False,switched to competitor,
+427,c-f6f8a5,2024-10-28,pricing,,True,False,True,switched to competitor,
+428,,2024-06-07,budget,0.0,False,,False,,
+429,C-31a49a,2024-04-05,support,0.0,True,False,True,too expensive,
+430, C-ef2329    ,,competitor,0.0,False,True,,,
+431,C-88877a,2023-12-09,competitor,0.0,True,False,False,,
+432,c-28085c,2024-12-21,budget,,,,False,,
+433,C-5f203c,2024-02-09,budget,0.0,False,False,False,too expensive,
+434,C-a6d0e1,2024-12-05,features,0.0,False,False,False,missing features,
+435,C-95a18e,2024-12-19,features,0.0,,False,False,switched to competitor,
+436,C-b0b16c,2024-12-14,competitor,156.0,False,False,False,too expensive,
+437,C-dfe189,2024-11-25,features,72.19,True,False,False,,
+438,C-9fe257,2024-12-27,,0.0,False,False,False,too expensive,
+439,C-c1bc7e,2023-09-20,features,0.0,False,False,False,,
+440,C-27e9c1,2024-06-01,competitor,0.0,True,False,False,switched to competitor,
+441,,2024-09-09,unknown,0.0,False,False,False,switched to competitor,
+442,C-9775db,2024-02-21,competitor,0.0,False,,False,switched to competitor,
+443,C-3EFA9B,2024-11-07,,0.0,False,False,True,too expensive,
+444,C-917c1d,2024-05-24,budget,0.0,True,False,True,too expensive,
+445,C-2d659a,,pricing,0.0,True,False,False,switched to competitor,
+446,C-5d9db3,2024-05-06,unknown,0.0,False,False,False,,
+447,C-0C829F,2023-04-15,budget,0.0,False,,False,too expensive,
+448,C-83b55f,2024-12-25,features,392.92,False,False,False,switched to competitor,
+449,C-fa6149,2024-05-05,budget,0.0,False,False,False,too expensive,
+450,C-76d762,2023-12-09,unknown,0.0,True,False,True,too expensive,
+451,C-4b071b,2024-11-25,,0.0,True,True,False,missing features,
+452,C-b3431e,2023-12-30,support,0.0,False,True,False,switched to competitor,
+453,C-9a1ccc,2024-11-14,pricing,0.0,False,False,False,,
+454,,,,,False,False,False,switched to competitor,
+455,C-a47d71,2024-07-07,features,0.0,False,False,False,switched to competitor,
+456,C-33c706,2024-08-08,features,0.0,False,,False,missing features,
+457,C-901c1a,,competitor,0.0,False,False,False,too expensive,
+458,C-481838,2023-10-26,unknown,0.0,False,True,False,switched to competitor,
+459,C-ff002d,2024-11-02,unknown,0.0,False,False,False,,
+460,C-1cf079,2024-09-19,competitor,0.0,False,True,False,,
+461,C-f17b79,2024-03-07,support,0.0,False,False,False,too expensive,
+462,,2024-10-06,unknown,0.0,True,False,True,switched to competitor,
+463,C-9f95d3,2024-01-06,features,,False,False,False,too expensive,
+464,C-54993f,,support,8.92,False,False,False,missing features,
+465,C-75ddda,2023-12-25,competitor,0.0,,False,False,too expensive,
+466,C-d7ded6,,features,6.38,False,False,False,switched to competitor,
+467,,2024-06-30,,0.0,False,False,False,missing features,
+468,C-811879,2024-07-29,unknown,0.0,True,False,False,,
+469,C-6736e4,2024-01-10,competitor,0.0,True,False,,,
+470,,,features,30.73,False,False,False,too expensive,
+471,C-59d7bd,2024-08-11,budget,0.0,False,False,False,missing features,
+472,C-d0f6d8,2023-09-19,support,0.0,False,False,False,switched to competitor,
+473,C-9c899e,2024-10-14,competitor,0.0,False,False,False,,
+474,C-fad4d3,2024-12-03,unknown,0.0,,,False,too expensive,
+475, C-07ec1f    ,2024-11-03,competitor,15.46,,False,False,switched to competitor,
+476,C-156544,2024-10-12,budget,17.42,True,,False,switched to competitor,
+477,C-e11abb,2024-04-25,unknown,50.06,,False,False,,
+478,C-D85C26,,pricing,0.0,False,False,True,too expensive,
+479,C-d28d0e,2023-10-04,competitor,0.0,False,False,,missing features,
+480,C-3bf203,2024-06-27,competitor,0.0,False,False,False,switched to competitor,
+481,C-326d32,2024-12-20,,10.4,False,False,False,missing features,
+482,C-44918f,2024-09-15,unknown,0.0,True,False,True,too expensive,
+483,C-cf246e,,pricing,5.27,False,False,False,,
+484,C-e20cc6,2024-11-19,pricing,0.0,False,False,False,too expensive,
+485,C-1f4cc0,2024-08-26,pricing,0.0,,False,False,,
+486,C-0d470e,2024-12-29,budget,,True,False,False,,
+487,C-562E14,2024-11-08,budget,0.0,True,False,False,,
+488,C-06b32c,2023-08-19,pricing,0.0,False,False,False,missing features,
+489,C-4bbb74,2024-11-16,competitor,0.0,False,False,False,missing features,
+490,,2023-12-27,features,27.92,,False,,too expensive,
+491,,,,0.0,False,True,False,missing features,
+492,C-d39666,2023-12-26,budget,0.0,False,False,False,,
+493,C-ed4dcb,,competitor,58.37,False,False,False,,
+494,C-105C4C,,budget,21.95,False,True,False,,
+495,C-c3b1e4,2024-10-17,budget,0.0,False,False,False,too expensive,
+496,C-b6997d,2024-07-20,pricing,0.0,False,False,,,
+497,C-36d17e,2024-12-13,pricing,102.39,False,False,True,,
+498,C-5cfad3,2023-12-16,,56.15,False,False,False,missing features,
+499,C-56b504,2024-08-14,unknown,18.81,False,False,True,switched to competitor,
+500,C-2bf465,2024-01-20,support,0.0,False,False,False,missing features,
+501,C-54CE4F,,pricing,143.8,False,False,False,switched to competitor,
+502,,2024-05-02,budget,0.0,False,False,,,
+503,C-c4e0b8,2024-10-31,support,0.0,False,False,False,too expensive,
+504,C-ba801a,2024-09-09,unknown,0.0,False,True,False,,
+505,C-1f8fd5,2024-12-04,support,0.0,True,True,True,,
+506,c-f477c9,2024-07-18,,0.0,False,False,False,too expensive,
+507,C-4b854f,,pricing,0.0,True,False,True,too expensive,
+508,C-1124ed,,pricing,17.06,False,False,True,,
+509,C-370962,,features,6.38,False,,False,,
+510,C-cc90be,2024-08-06,budget,74.94,False,False,False,switched to competitor,
+511,C-89af4e,2024-08-06,budget,0.0,False,True,False,too expensive,
+512,C-e73b7f,2023-10-05,support,0.0,False,False,True,too expensive,
+513,C-5e0998,2024-05-24,features,0.0,False,False,False,missing features,
+514,C-09b7c7,2024-09-01,features,3.57,False,False,False,missing features,
+515,C-2299d7,2024-11-23,support,0.0,False,False,False,too expensive,
+516,C-67d3e1,2024-08-12,support,0.0,True,False,False,,
+517,C-ca5f4b,2024-09-15,pricing,0.0,True,False,False,switched to competitor,
+518,C-0340b2,2024-10-31,competitor,,False,False,False,switched to competitor,
+519,C-5368b0,2024-08-11,pricing,0.0,False,False,False,switched to competitor,
+520,C-ca81a1,2024-09-02,competitor,0.0,False,False,False,,
+521,,2023-07-12,features,0.0,False,False,False,missing features,
+522,C-864169,2024-08-05,support,6.77,False,False,False,switched to competitor,
+523,C-488b42,2023-07-21,competitor,0.0,,False,True,missing features,
+524,C-ce47da,2024-11-19,pricing,61.1,False,False,False,switched to competitor,
+525,C-fb2a95,2024-09-26,pricing,0.0,False,False,False,too expensive,
+526,C-8d834b,2024-07-19,support,0.0,False,False,False,,
+527,C-9e8172,,support,19.08,False,False,False,missing features,
+528,C-474d36,2024-02-26,features,0.0,False,,True,,
+529,C-b7e6ac,2024-05-24,budget,,False,False,False,too expensive,
+530,C-ffc2b8,2024-11-15,unknown,0.0,False,False,False,switched to competitor,
+531,C-a1bcf0,,features,0.0,False,False,False,missing features,
+532,C-675c0a,2024-10-18,support,135.11,False,False,False,,
+533,C-458075,2024-06-21,features,0.0,False,False,False,too expensive,
+534,C-3003bc,2024-09-03,unknown,152.36,False,False,False,too expensive,
+535,C-6ac144,2023-11-06,unknown,0.0,False,False,False,missing features,
+536,C-9bb1b6,2024-10-02,competitor,0.0,False,True,False,missing features,
+537,C-07fd6b,2024-10-30,unknown,113.84,False,True,False,missing features,
+538,C-2e2f04,2024-10-19,budget,0.0,True,False,,missing features,
+539,C-2Fc9C4,2024-09-03,competitor,,False,True,False,too expensive,
+540,C-109d03,2024-11-08,support,0.0,True,False,False,missing features,
+541,C-af7968,2024-11-21,pricing,0.0,True,False,,missing features,
+542,,2024-11-10,features,0.0,False,,False,,
+543,C-2886ac,2024-11-25,competitor,0.0,False,False,False,missing features,
+544,C-a40fa4,2024-06-29,competitor,0.0,False,False,False,too expensive,
+545,C-965D90,2024-05-19,competitor,,False,False,False,missing features,
+546,C-6a6ed3,2023-09-21,pricing,0.0,True,False,False,missing features,
+547,C-9c89ca,2024-12-26,unknown,0.0,False,False,False,missing features,
+548,C-1dce6d,2024-12-16,budget,0.0,,False,,too expensive,
+549,C-0d5e99,2024-06-29,unknown,,False,False,True,too expensive,
+550,C-05bc56,2024-11-17,features,0.0,False,True,True,missing features,
+551,c-887a83,2024-07-15,unknown,,,False,False,missing features,
+552,C-84f039,2024-01-01,,78.25,True,False,False,missing features,
+553,C-aad0f7,2023-11-26,support,0.0,False,True,False,missing features,
+554,C-6ab303,2024-10-18,competitor,0.0,False,False,False,too expensive,
+555,C-4a3e8e,,support,0.0,True,,False,,
+556,,2024-07-24,budget,,True,False,False,missing features,
+557,C-c6f6fe,2024-12-17,,0.0,,False,False,,
+558,C-374d5d,2024-12-12,unknown,0.0,True,False,False,too expensive,
+559,,2024-05-17,features,0.0,False,False,True,,
+560, C-c66a6c    ,2024-04-30,pricing,0.0,False,False,False,,
+561,C-7007f0,2024-05-28,support,,False,False,,missing features,
+562,C-b411ad,2024-03-17,budget,0.0,False,False,False,,
+563,C-ca1379,2024-11-12,unknown,23.52,False,False,False,,
+564,C-615769,,unknown,0.0,False,False,,,
+565,C-db2e8d,2023-08-25,unknown,52.88,,False,False,missing features,
+566,C-ed73ea,2024-04-14,,0.0,,False,False,,
+567,C-e20d30,2024-12-31,unknown,148.0,True,False,False,,
+568,C-e42d29,2023-11-26,unknown,0.0,False,False,False,missing features,
+569,C-cd8fba,2024-06-01,unknown,0.0,False,False,True,too expensive,
+570,C-2de339,2024-12-29,budget,13.5,False,False,False,,
+571,C-ec714a,2024-12-16,support,15.23,False,False,False,missing features,
+572,C-a6aa23,2023-10-13,support,0.0,False,True,False,missing features,
+573,C-3b4085,2024-05-27,features,0.0,True,,False,,
+574,C-437DA0,2024-07-11,support,0.0,True,False,False,,
+575,C-92da55,2024-12-26,pricing,86.02,False,False,False,too expensive,
+576,C-307676,2024-01-14,unknown,0.0,True,False,False,missing features,
+577,C-22d30d,2024-11-18,support,0.0,False,False,False,too expensive,
+578,C-a4a4a7,2024-09-09,features,0.0,False,False,False,,
+579,C-16DDBA,2024-05-16,support,0.0,True,False,False,switched to competitor,
+580,C-e8f3f5,2024-12-31,competitor,0.0,True,False,False,too expensive,
+581,C-6b9663,2024-12-11,unknown,0.0,False,False,False,missing features,
+582,,,budget,104.25,,False,False,,
+583,,2024-12-25,,0.0,False,False,False,,
+584,C-37929d,2024-10-01,unknown,0.0,False,,False,switched to competitor,
+585,C-efe5bb,2024-01-06,budget,0.0,False,False,False,too expensive,
+586,C-248550,,competitor,0.0,False,False,False,missing features,
+587,C-38ef8e,2024-09-30,pricing,0.0,False,False,False,too expensive,
+588,C-885a34,2024-07-16,pricing,0.0,True,False,False,,
+589,C-c4582f,2024-11-01,,0.0,True,False,False,,
+590, C-370175    ,2024-08-03,competitor,0.0,False,False,False,missing features,
+591,,2024-05-30,pricing,,True,False,,missing features,
+592,C-cc0058,2024-10-20,unknown,0.0,False,False,False,too expensive,
+593,C-ae47d1,2024-10-22,,0.0,False,False,False,switched to competitor,
+594,C-59499c,2024-11-12,pricing,70.03,False,False,False,switched to competitor,
+595,C-b56a35,2024-06-14,competitor,0.0,False,False,False,switched to competitor,
+596,C-7e7822,2024-02-03,budget,0.0,False,False,False,,
+597,C-484fba,2024-12-31,support,62.66,False,True,False,too expensive,
+598,C-22f536,2024-05-11,competitor,0.0,True,False,False,,
+599,C-5e0b68,2024-09-28,features,0.0,False,False,False,,
+600,C-17377e,2024-03-07,pricing,0.0,False,False,False,missing features,
+601,C-2d8e22,2024-10-07,support,0.0,False,False,False,switched to competitor,
+602,C-38b77f,2024-01-18,features,0.0,False,False,False,switched to competitor,
+603,C-a9e0c4,2024-04-12,competitor,0.0,False,,,switched to competitor,
+604,C-cd8fba,2024-06-01,unknown,0.0,False,False,True,too expensive,
+605,,2023-10-17,competitor,0.0,,False,False,,
+606,C-accb39,2023-11-01,budget,54.94,False,False,False,,
+607,C-b5bb09,2024-09-27,pricing,90.9,False,False,False,switched to competitor,
+608,C-02f4fa,2024-11-13,unknown,,False,False,False,too expensive,
+609,C-4B071B, 2024-11-25    ,unknown,0.0,True,,False,missing features,
+610,,2024-04-23,pricing,0.0,True,False,True,switched to competitor,
+611,C-8f9053,2024-11-09,,0.0,False,False,False,missing features,
+612,,2024-12-27,budget,0.0,False,False,False,,
+613,C-F79E5E,2024-09-18,unknown,0.0,False,False,False,switched to competitor,
+614,C-d05e42,,support,0.0,False,,False,,
+615,C-ddade1,2024-12-30,features,0.0,False,,True,,
+616,C-d9a1f3,2024-12-17,budget,0.0,False,False,False,,
+617,C-ae25d5,2024-12-04,pricing,0.0,True,False,False,,
+618,C-484fba,2024-12-31,,62.66,False,True,False,too expensive,
+619, C-ffc2b8    ,,,0.0,False,,False,switched to competitor,
+620,C-e26b7f,2024-12-09,budget,0.0,True,False,False,too expensive,
+621,C-8c9a9a,2024-08-10,features,0.0,True,False,False,too expensive,
+622,C-10ce15,2024-12-14,competitor,32.73,False,False,False,too expensive,
+623,C-065699,2024-12-07,support,0.0,False,False,False,too expensive,
+624,C-917c1d,2024-05-24,budget,0.0,True,False,True,too expensive,
+625,,2024-06-19,budget,0.0,True,False,False,,
+626,C-BA801A,2024-09-09,unknown,0.0,False,True,False,,
+627,C-c82861,2024-10-24,budget,0.0,False,False,False,switched to competitor,
+628,C-e20d30,2024-12-31,unknown,0.0,True,False,False,,
+629,C-66c9fe,,features,0.0,False,False,False,,
+630,C-ca81a1,2024-09-02,competitor,0.0,False,False,False,switched to competitor,
+631,C-811879,2024-07-29,unknown,0.0,True,False,False,,
+632,C-23ca8f,2024-10-03,unknown,0.0,False,True,False,,
+633,C-5f43c3,2024-12-29,pricing,0.0,False,,False,missing features,
+634,C-07be44,2024-11-05,budget,0.0,False,False,True,missing features,
+635,C-bc2761,2024-02-08,competitor,0.0,False,,False,too expensive,
+636,C-4f7342,2024-11-13,pricing,0.0,False,False,False,switched to competitor,
+637,C-1727c8,2024-02-27,pricing,0.0,,False,False,,
+638,C-8ae2f5,2024-05-17,features,0.0,False,False,True,,
+639,C-65cff3,2024-08-07,budget,104.25,True,False,,,
+640,C-a6d0e1,2024-12-05,features,0.0,False,False,False,missing features,
+641,C-562e14,2024-11-08,budget,0.0,True,False,False,,
+642,C-921335,2024-07-23,features,0.0,False,False,False,too expensive,
+643,C-3dbe46,2024-11-26,unknown,1.55,False,False,False,too expensive,
+644,C-366A49,2024-12-24,unknown,68.65,,False,False,switched to competitor,
+645,C-7007f0,2024-05-28,support,74.55,False,False,False,missing features,
+646,C-f81017,2024-08-09,features,0.0,False,False,True,missing features,
+647,C-a24d30,2024-04-07,budget,0.0,False,,False,,
+648,C-8a2d9d,,features,0.0,False,True,False,missing features,
+649,C-4c523f,2024-03-12,unknown,0.0,False,False,False,,
+650,C-8b3048,2024-08-29,features,,True,False,,,
+651,C-83b55f,2024-12-25,features,392.92,False,False,,switched to competitor,
+652,C-7befdc,2024-08-11,features,0.0,False,False,False,too expensive,
+653,C-a403fc,2024-11-21,,,False,False,False,too expensive,
+654,C-13f833,2024-09-05,budget,0.0,False,False,False,missing features,
+655,C-5cfad3,2023-12-16,,56.15,False,False,False,missing features,
+656,c-88877a,,competitor,0.0,True,False,False,,
+657,C-695fcd,2024-11-23,budget,,False,False,,switched to competitor,
+658,C-66d447,2024-09-13,support,17.34,False,False,False,missing features,
+659,C-fa6149,2024-05-05,budget,0.0,False,False,False,too expensive,
+660,C-bb3556,2024-08-08,competitor,0.0,False,False,False,,
+661,C-B6997D,2024-07-20,pricing,0.0,,False,False,,
+662,C-e91da6,2024-05-07,pricing,0.0,True,False,False,,
+663,C-0e273d,2024-03-14,pricing,0.0,False,False,False,,
+664,C-70de89,2024-12-22,pricing,,False,False,False,switched to competitor,
+665,C-c179a3,2024-04-25,features,0.0,,True,False,missing features,
+666,C-fad4d3,2024-12-03,unknown,0.0,False,False,False,too expensive,
+667,,2024-09-12,,0.0,False,False,False,,
+668,C-7fcce6,2024-12-08,unknown,0.0,False,False,False,missing features,
+669,,2024-10-05,unknown,0.0,True,False,False,,
+670,,,,0.0,False,False,False,missing features,
+671,C-6C63BC,2024-03-30,features,0.0,False,False,False,missing features,
+672,C-a4f797,2024-11-07,budget,0.0,False,False,False,switched to competitor,
+673,C-f1268a,2024-07-19,budget,7.58,,False,True,missing features,
+674,C-3f2f59,2024-06-17,features,0.0,False,False,,missing features,
+675,C-f5dfda,2024-07-20,competitor,34.87,True,,True,,
+676,C-97ab4b,2024-12-29,features,0.0,False,False,False,switched to competitor,
+677,C-c93006,2023-11-16,competitor,0.0,False,True,False,too expensive,
+678,,2024-06-06,features,0.0,False,False,False,missing features,
+679,C-974322,2024-07-18,unknown,0.0,True,False,False,missing features,
+680,C-b3c3ce,2024-10-15,features,0.0,False,False,False,,
+681,C-F17B79,2024-03-07,support,0.0,False,,False,too expensive,
+682,C-947b6b,2024-04-28,pricing,0.0,,False,False,missing features,
+683,,,support,0.0,False,False,False,,
+684,C-dcdebc,2024-07-13,competitor,225.18,False,False,False,,
+685,,2024-08-21,support,0.0,False,False,False,missing features,
+686,C-f3aca2,2024-11-18,features,0.0,False,False,False,switched to competitor,
+687,C-2608a3,2024-12-17,features,0.0,False,True,False,too expensive,
+688,C-A41660, 2024-10-09    ,features,0.0,False,False,True,,
+689,C-E582EA,2023-12-04,support,0.0,,,False,,
+690,C-92e7a2,,unknown,0.0,True,False,False,missing features,
+691,C-0f0386,2024-09-17,budget,64.22,False,False,False,switched to competitor,
+692,C-C6F6Fe,2024-12-17,support,0.0,False,False,False,,
+693,C-5328d6,2024-12-31,competitor,,False,False,False,,
+694,C-ae47d1,2024-10-22,competitor,0.0,False,False,,switched to competitor,
+695,C-0baa74,2024-11-28,support,43.01,False,False,False,switched to competitor,
+696,C-efed73,2024-10-23,competitor,0.0,True,False,False,missing features,
+697, C-65b589    ,2024-12-05,,0.0,False,True,False,switched to competitor,
+698,,2024-10-06,unknown,0.0,True,False,True,switched to competitor,
+699,C-2de339,2024-12-29,budget,13.5,False,False,False,,
+700,C-23a031,2024-10-16,,0.0,False,False,,,
+701,C-78A2BB,,features,0.0,True,False,False,switched to competitor,
+702,C-55f4ec,2024-07-20,pricing,0.0,False,False,False,too expensive,
+703,C-0340b2,2024-10-31,competitor,0.0,False,False,,switched to competitor,
+704,C-9b80de,2024-12-01,pricing,132.32,False,False,False,missing features,
+705,C-a54597,2024-03-24,features,0.0,False,False,False,missing features,
+706,C-6b9663,2024-12-11,unknown,0.0,False,False,False,missing features,
+707,C-ae15f4,2023-06-16,unknown,0.0,False,False,,,
+708,C-ea6df1,2024-04-07,budget,0.0,False,False,False,switched to competitor,
+709,C-4f6e40,2024-08-11,features,0.0,False,False,False,too expensive,
+710,C-5b6094,2024-11-04,budget,0.0,False,False,False,too expensive,
+711,C-94eebe,2024-04-17,unknown,0.0,True,False,False,switched to competitor,
+712,C-437da0,2024-07-11,support,0.0,True,False,False,,
+713,C-4cdb6f,2024-06-15,pricing,0.0,False,False,False,missing features,
+714,C-736efa,2024-12-06,unknown,0.0,,False,,,
+715,C-b4b58e,2024-09-22,budget,0.0,False,False,False,too expensive,
+716,C-62e7a3,2024-10-20,features,83.94,False,False,False,,
+717,,2024-01-12,features,83.06,False,,False,missing features,
+718,C-9e8172,2024-07-03,support,19.08,False,,False,missing features,
+719,C-22d30d,2024-11-18,support,0.0,False,False,,too expensive,
+720,,,,,,,,,A-c37cab
+721,,,,,,,,,A-37f969
+722,,,,,,,,,A-b07346
+723,,,,,,,,,A-1e50e0
+724,,,,,,,,,A-956988
+725,,,,,,,,,A-b20d99
+726,,,,,,,,,A-526d93
+727,,,,,,,,,A-751bd4
+728,,,,,,,,,A-ccabf0
+729,,,,,,,,,A-0a62f5
+730,,,,,,,,,A-3ce5b8
+731,,,,,,,,,A-3b5cd1
+732,,,,,,,,,A-bcf664
+733,,,,,,,,,A-b9f5b1
+734,,,,,,,,,A-0dbdc6
+735,,,,,,,,,A-c9bb3e
+736,,,,,,,,,A-96e141
+737,,,,,,,,,A-e7a1e2
+738,,,,,,,,,A-812c5b
+739,,,,,,,,,A-1e50e0
+740,,,,,,,,,A-c70870
+741,,,,,,,,,A-271f46
+742,,,,,,,,,A-592832
+743,,,,,,,,,A-180abf
+744,,,,,,,,,A-0a282f
+745,,,,,,,,,A-e51ec7
+746,,,,,,,,,A-034368
+747,,,,,,,,,A-8bde0c
+748,,,,,,,,,A-08e34e
+749,,,,,,,,,A-44dc83
+750,,,,,,,,,A-78f02b
+751,,,,,,,,,A-fce879
+752,,,,,,,,,A-34ea2f
+753,,,,,,,,,A-0baac2
+754,,,,,,,,,A-ac85cd
+755,,,,,,,,,A-439b2f
+756,,,,,,,,,A-0f6450
+757,,,,,,,,,A-b78bf8
+758,,,,,,,,,A-3b5cd1
+759,,,,,,,,,A-7df7a7
+760,,,,,,,,,A-396e5f
+761,,,,,,,,,A-32fb14
+762,,,,,,,,,A-4e0e85
+763,,,,,,,,,A-922109
+764,,,,,,,,,A-794a0b
+765,,,,,,,,,A-5a184f
+766,,,,,,,,,A-ccb686
+767,,,,,,,,,A-029f69
+768,,,,,,,,,A-9208f0
+769,,,,,,,,,A-5a92e7
+770,,,,,,,,,A-f45426
+771,,,,,,,,,A-2446e3
+772,,,,,,,,,A-d535f6
+773,,,,,,,,,A-6da850
+774,,,,,,,,,A-249769
+775,,,,,,,,,A-8e47ca
+776,,,,,,,,,A-6da850
+777,,,,,,,,,A-484819
+778,,,,,,,,,A-bbc346
+779,,,,,,,,,A-eb1312
+780,,,,,,,,,A-bf7919
+781,,,,,,,,,A-bece89
+782,,,,,,,,,A-832ec2
+783,,,,,,,,,A-22d9d2
+784,,,,,,,,,A-32728c
+785,,,,,,,,,A-37f969
+786,,,,,,,,,A-1b9609
+787,,,,,,,,,A-310452
+788,,,,,,,,,A-016043
+789,,,,,,,,,A-80eeb6
+790,,,,,,,,,A-7e0a10
+791,,,,,,,,,A-6a7c9d
+792,,,,,,,,,A-098560
+793,,,,,,,,,A-9f9299
+794,,,,,,,,,A-ef84cf
+795,,,,,,,,,A-13466a
+796,,,,,,,,,A-65aeb5
+797,,,,,,,,,A-659280
+798,,,,,,,,,A-d49cc5
+799,,,,,,,,,A-cc8c8f
+800,,,,,,,,,A-180abf
+801,,,,,,,,,A-6da850
+802,,,,,,,,,A-31ab9a
+803,,,,,,,,,A-e08cd3
+804,,,,,,,,,A-0651a4
+805,,,,,,,,,A-b2225d
+806,,,,,,,,,A-c222ab
+807,,,,,,,,,A-a6d261
+808,,,,,,,,,A-425e76
+809,,,,,,,,,A-c222ab
+810,,,,,,,,,A-bcf664
+811,,,,,,,,,A-96e141
+812,,,,,,,,,A-df1e44
+813,,,,,,,,,A-7f29a7
+814,,,,,,,,,A-b07b56
+815,,,,,,,,,A-d792a6
+816,,,,,,,,,A-7cfe77
+817,,,,,,,,,A-69fad4
+818,,,,,,,,,A-4bfa33
+819,,,,,,,,,A-cc1d8d
+820,,,,,,,,,A-7f4db3
+821,,,,,,,,,A-692f18
+822,,,,,,,,,A-7a0d69
+823,,,,,,,,,A-fda07f
+824,,,,,,,,,A-4e44e8
+825,,,,,,,,,A-cd458b
+826,,,,,,,,,A-56962b
+827,,,,,,,,,A-2bc93d
+828,,,,,,,,,A-104f1a
+829,,,,,,,,,A-2e3bad
+830,,,,,,,,,A-2edab2
+831,,,,,,,,,A-3be56b
+832,,,,,,,,,A-6e08f3
+833,,,,,,,,,A-712533
+834,,,,,,,,,A-df10db
+835,,,,,,,,,A-acb7f7
+836,,,,150.0,,,,,A-533452
+837,,,,,,,,,A-993085
+838,,,,,,,,,A-bf7919
+839,,,,,,,,,A-bb1486
+840,,,,,,,,,A-eafc6e
+841,,,,,,,,,A-faa28c
+842,,,,,,,,,A-7dacce
+843,,,,,,,,,A-50bb9f
+844,,,,,,,,,A-716841
+845,,,,,,,,,A-5a184f
+846,,,,,,,,,A-e40f45
+847,,,,,,,,,A-9affe6
+848,,,,,,,,,A-0354fe
+849,,,,,,,,,A-f1f639
+850,,,,,,,,,A-5247b3
+851,,,,,,,,,A-337bc1
+852,,,,,,,,,A-039727
+853,,,,,,,,,A-5c9849
+854,,,,,,,,,A-82d8a6
+855,,,,,,,,,A-18793f
+856,,,,,,,,,A-81edc3
+857,,,,,,,,,A-53f4e3
+858,,,,,,,,,A-1619f8
+859,,,,,,,,,A-ed510f
+860,,,,,,,,,A-76fa4d
+861,,,,,,,,,A-13466a
+862,,,,,,,,,A-31ab9a
+863,,,,,,,,,A-e43bf7
+864,,,,,,,,,A-20736a
+865,,,,,,,,,A-956988
+866,,,,,,,,,A-c9bb3e
+867,,,,,,,,,A-dcc3f1
+868,,,,,,,,,A-462d45
+869,,,,,,,,,A-e5d6ab
+870,,,,,,,,,A-37f969
+871,,,,,,,,,A-0a62f5
+872,,,,,,,,,A-0be015
+873,,,,,,,,,A-e888d1
+874,,,,,,,,,A-ffc04f
+875,,,,,,,,,A-180abf
+876,,,,,,,,,A-7c6b6b
+877,,,,,,,,,A-781cc0
+878,,,,,,,,,A-e19ff6
+879,,,,,,,,,A-78f02b
+880,,,,,,,,,A-271f46
+881,,,,,,,,,A-6a4e2d
+882,,,,,,,,,A-5a92e7
+883,,,,,,,,,A-3b37d9
+884,,,,,,,,,A-c1e51e
+885,,,,,,,,,A-4c56c9
+886,,,,,,,,,A-96bbc6
+887,,,,,,,,,A-9208f0
+888,,,,,,,,,A-4814a3
+889,,,,,,,,,A-dcc2f0
+890,,,,,,,,,A-3cc791
+891,,,,,,,,,A-d792a6
+892,,,,,,,,,A-6e7827
+893,,,,,,,,,A-e19ff6
+894,,,,,,,,,A-712f1c
+895,,,,,,,,,A-68f37c
+896,,,,,,,,,A-e351e1
+897,,,,,,,,,A-0a62f5
+898,,,,,,,,,A-09316c
+899,,,,,,,,,A-4d1e75
+900,,,,,,,,,A-8ae3fc
+901,,,,,,,,,A-bb1eaa
+902,,,,,,,,,A-c58f49
+903,,,,,,,,,A-67be94
+904,,,,,,,,,A-cdf020
+905,,,,,,,,,A-aa9511
+906,,,,151.0,,,,,A-50bb9f
+907,,,,,,,,,A-b9eed8
+908,,,,,,,,,A-149a69
+909,,,,,,,,,A-4ef964
+910,,,,,,,,,A-558c72
+911,,,,,,,,,A-54ecc2
+912,,,,,,,,,A-3b5cd1
+913,,,,,,,,,A-ff3c73
+914,,,,,,,,,A-296d7c
+915,,,,,,,,,A-c16101
+916,,,,,,,,,A-9779ad
+917,,,,,,,,,A-39ddf4
+918,,,,,,,,,A-bd4513
+919,,,,,,,,,A-3793ee
+920,,,,137.0,,,,,A-dbc825
+921,,,,,,,,,A-f92792
+922,,,,,,,,,A-eb7c38
+923,,,,,,,,,A-202b67
+924,,,,,,,,,A-5a3eb9
+925,,,,,,,,,A-ccabf0
+926,,,,,,,,,A-2d4502
+927,,,,,,,,,A-fce879
+928,,,,,,,,,A-0cc442
+929,,,,,,,,,A-151c9a
+930,,,,,,,,,A-5f2961
+931,,,,,,,,,A-a865bd
+932,,,,,,,,,A-751c58
+933,,,,,,,,,A-b2225d
+934,,,,,,,,,A-2edab2
+935,,,,,,,,,A-098560
+936,,,,,,,,,A-ccb686
+937,,,,,,,,,A-db5e9e
+938,,,,,,,,,A-96bbc6
+939,,,,,,,,,A-dcc3f1
+940,,,,,,,,,A-9779ad
+941,,,,,,,,,A-158f4e
+942,,,,,,,,,A-c16cf7
+943,,,,,,,,,A-bcf664
+944,,,,,,,,,A-96bbc6
+945,,,,,,,,,A-30b4ca
+946,,,,,,,,,A-712426
+947,,,,,,,,,A-337bc1
+948,,,,,,,,,A-7dacce
+949,,,,,,,,,A-158f4e
+950,,,,,,,,,A-1d5444
+951,,,,,,,,,A-526d93
+952,,,,,,,,,A-68f37c
+953,,,,,,,,,A-f51f16
+954,,,,,,,,,A-84ebe4
+955,,,,,,,,,A-5a184f
+956,,,,,,,,,A-e7a1e2
+957,,,,,,,,,A-781cc0
+958,,,,,,,,,A-0cc442
+959,,,,,,,,,A-2e4581
+960,,,,,,,,,A-659280
+961,,,,,,,,,A-40a557
+962,,,,,,,,,A-0a62f5
+963,,,,,,,,,A-9f9299
+964,,,,,,,,,A-e83938
+965,,,,,,,,,A-3f9cc0
+966,,,,,,,,,A-ee42db
+967,,,,,,,,,A-ae052e
+968,,,,,,,,,A-ab438f
+969,,,,,,,,,A-90a8c8
+970,,,,,,,,,A-0cc442
+971,,,,,,,,,A-8e47ca
+972,,,,,,,,,A-c608c8
+973,,,,,,,,,A-684255
+974,,,,,,,,,A-d77f4c
+975,,,,,,,,,A-c7ffc2
+976,,,,,,,,,A-05d3b3
+977,,,,,,,,,A-702032
+978,,,,,,,,,A-dec005
+979,,,,,,,,,A-726cfa
+980,,,,,,,,,A-9f0b68
+981,,,,,,,,,A-712426
+982,,,,,,,,,A-7641d3
+983,,,,,,,,,A-bb1486
+984,,,,,,,,,A-fa3095
+985,,,,,,,,,A-310452
+986,,,,,,,,,A-463db0
+987,,,,,,,,,A-00bed1
+988,,,,,,,,,A-ad3abd
+989,,,,,,,,,A-39b19f
+990,,,,,,,,,A-cc1d8d
+991,,,,,,,,,A-fa2041
+992,,,,,,,,,A-2ebb4b
+993,,,,,,,,,A-eb1312
+994,,,,,,,,,A-dfbd31
+995,,,,,,,,,A-4e0e85
+996,,,,,,,,,A-2e4581
+997,,,,,,,,,A-117171
+998,,,,,,,,,A-e7a1e2
+999,,,,,,,,,A-1e6fc3
+1000,,,,,,,,,A-ac9111
+1001,,,,,,,,,A-ee42db
+1002,,,,,,,,,A-a45270
+1003,,,,,,,,,A-378b99
+1004,,,,,,,,,A-9ee962
+1005,,,,,,,,,A-038089
+1006,,,,,,,,,A-684255
+1007,,,,,,,,,A-f1f639
+1008,,,,,,,,,A-9f2731
+1009,,,,,,,,,A-8b0451
+1010,,,,119.0,,,,,A-c45b23
+1011,,,,,,,,,A-82861f
+1012,,,,,,,,,A-c1e51e
+1013,,,,,,,,,A-d42431
+1014,,,,,,,,,A-c16101
+1015,,,,,,,,,A-7c83a1
+1016,,,,,,,,,A-ce550d
+1017,,,,,,,,,A-f19409
+1018,,,,,,,,,A-029f69
+1019,,,,,,,,,A-484819
+1020,,,,,,,,,A-6965e1
+1021,,,,,,,,,A-6965e1
+1022,,,,,,,,,A-5fe118
+1023,,,,,,,,,A-cab532
+1024,,,,,,,,,A-9289f6
+1025,,,,,,,,,A-1b9609
+1026,,,,,,,,,A-118f1c
+1027,,,,,,,,,A-76fa4d
+1028,,,,,,,,,A-7dacce
+1029,,,,,,,,,A-a8b49c
+1030,,,,,,,,,A-cb5333
+1031,,,,,,,,,A-f19409
+1032,,,,,,,,,A-a8d89d
+1033,,,,,,,,,A-81edc3
+1034,,,,,,,,,A-ccc747
+1035,,,,,,,,,A-3f9cc0
+1036,,,,,,,,,A-8e47ca
+1037,,,,,,,,,A-87aa7b
+1038,,,,,,,,,A-f45426
+1039,,,,,,,,,A-09540c
+1040,,,,,,,,,A-e1462e
+1041,,,,,,,,,A-19b2c8
+1042,,,,,,,,,A-10b8f2
+1043,,,,,,,,,A-32728c
+1044,,,,,,,,,A-f25509
+1045,,,,,,,,,A-94d3da
+1046,,,,,,,,,A-751c58
+1047,,,,,,,,,A-7641d3
+1048,,,,,,,,,A-86902e
+1049,,,,,,,,,A-1619f8
+1050,,,,,,,,,A-5247b3
+1051,,,,,,,,,A-9b9fe9
+1052,,,,,,,,,A-02fac6
+1053,,,,,,,,,A-54ecc2
+1054,,,,,,,,,A-855a48
+1055,,,,,,,,,A-c1dfe1
+1056,,,,,,,,,A-a7bd4b
+1057,,,,,,,,,A-d535f6
+1058,,,,,,,,,A-4f18f0
+1059,,,,,,,,,A-b7724f
+1060,,,,,,,,,A-fd7ad3
+1061,,,,,,,,,A-249769
+1062,,,,,,,,,A-a1b80b
+1063,,,,,,,,,A-ac14bb
+1064,,,,,,,,,A-5b1bcd
+1065,,,,,,,,,A-202b67
+1066,,,,,,,,,A-bad8c1
+1067,,,,,,,,,A-2446e3
+1068,,,,,,,,,A-533452
+1069,,,,,,,,,A-b54c01
+1070,,,,,,,,,A-2ebb4b
+1071,,,,,,,,,A-9123ac
+1072,,,,,,,,,A-8bde0c
+1073,,,,,,,,,A-f44180
+1074,,,,,,,,,A-c37601
+1075,,,,,,,,,A-a09355
+1076,,,,,,,,,A-038089
+1077,,,,,,,,,A-8ed5dd
+1078,,,,,,,,,A-313be3
+1079,,,,,,,,,A-e888d1
+1080,,,,,,,,,A-7a0d69
+1081,,,,,,,,,A-e51ec7
+1082,,,,,,,,,A-1619f8
+1083,,,,,,,,,A-f5641b
+1084,,,,,,,,,A-dfbd31
+1085,,,,,,,,,A-0532a9
+1086,,,,,,,,,A-f5641b
+1087,,,,,,,,,A-309e54
+1088,,,,,,,,,A-7988d1
+1089,,,,,,,,,A-65aeb5
+1090,,,,,,,,,A-e08cd3
+1091,,,,,,,,,A-e693b6
+1092,,,,,,,,,A-f17767
+1093,,,,,,,,,A-b44e3e
+1094,,,,,,,,,A-68f37c
+1095,,,,,,,,,A-342303
+1096,,,,,,,,,A-8ae05d
+1097,,,,,,,,,A-32fb14
+1098,,,,,,,,,A-81edc3
+1099,,,,,,,,,A-a33200
+1100,,,,,,,,,A-d922bf
+1101,,,,,,,,,A-ff3c73
+1102,,,,,,,,,A-37f969
+1103,,,,,,,,,A-4bfa33
+1104,,,,,,,,,A-0b0d6d
+1105,,,,,,,,,A-a8d89d
+1106,,,,,,,,,A-ae052e
+1107,,,,,,,,,A-117171
+1108,,,,,,,,,A-87aa7b
+1109,,,,,,,,,A-0f7d77
+1110,,,,,,,,,A-34ea2f
+1111,,,,,,,,,A-1e1b80
+1112,,,,,,,,,A-58b9ff
+1113,,,,,,,,,A-6965e1
+1114,,,,,,,,,A-117171
+1115,,,,,,,,,A-65c341
+1116,,,,,,,,,A-ae052e
+1117,,,,,,,,,A-eafc6e
+1118,,,,,,,,,A-c58f49
+1119,,,,,,,,,A-e7beab
+1120,,,,,,,,,A-b179bf
+1121,,,,,,,,,A-afa505
+1122,,,,,,,,,A-4a267b
+1123,,,,,,,,,A-6a7c9d
+1124,,,,,,,,,A-32fb14
+1125,,,,,,,,,A-bd4513
+1126,,,,,,,,,A-eb7fac
+1127,,,,,,,,,A-4e44e8
+1128,,,,,,,,,A-32728c
+1129,,,,,,,,,A-1b9609
+1130,,,,,,,,,A-854864
+1131,,,,,,,,,A-118d55
+1132,,,,,,,,,A-417d2f
+1133,,,,,,,,,A-f03140
+1134,,,,,,,,,A-241e75
+1135,,,,,,,,,A-98a59a
+1136,,,,,,,,,A-9f2731
+1137,,,,,,,,,A-c222ab
+1138,,,,,,,,,A-e51ec7
+1139,,,,,,,,,A-5790f4
+1140,,,,,,,,,A-2bc93d
+1141,,,,,,,,,A-eb2fdc
+1142,,,,,,,,,A-ac14bb
+1143,,,,,,,,,A-7988d1
+1144,,,,,,,,,A-180abf
+1145,,,,,,,,,A-180abf
+1146,,,,,,,,,A-e61e98
+1147,,,,,,,,,A-2d1036
+1148,,,,,,,,,A-87aa7b
+1149,,,,,,,,,A-9123ac
+1150,,,,,,,,,A-0f6450
+1151,,,,,,,,,A-313be3
+1152,,,,,,,,,A-4bfa33
+1153,,,,,,,,,A-80eeb6
+1154,,,,,,,,,A-b179bf
+1155,,,,,,,,,A-241e75
+1156,,,,,,,,,A-ae052e
+1157,,,,,,,,,A-05f0e5
+1158,,,,,,,,,A-157070
+1159,,,,,,,,,A-993085
+1160,,,,,,,,,A-c16b88
+1161,,,,,,,,,A-05d3b3
+1162,,,,,,,,,A-331424
+1163,,,,,,,,,A-cdf020
+1164,,,,,,,,,A-39868b
+1165,,,,,,,,,A-72799b
+1166,,,,,,,,,A-39868b
+1167,,,,,,,,,A-c7ffc2
+1168,,,,,,,,,A-5790f4
+1169,,,,,,,,,A-3d957b
+1170,,,,,,,,,A-51ec1b
+1171,,,,,,,,,A-118d55
+1172,,,,,,,,,A-e3bd71
+1173,,,,,,,,,A-b2af2e
+1174,,,,,,,,,A-089363
+1175,,,,,,,,,A-f51f16
+1176,,,,,,,,,A-ffdfd5
+1177,,,,,,,,,A-425e76
+1178,,,,,,,,,A-af0cd2
+1179,,,,,,,,,A-8ed5dd
+1180,,,,,,,,,A-354f12
+1181,,,,,,,,,A-65c341
+1182,,,,,,,,,A-0cc442
+1183,,,,,,,,,A-157070
+1184,,,,,,,,,A-c43359
+1185,,,,,,,,,A-425e76
+1186,,,,,,,,,A-e888d1
+1187,,,,,,,,,A-bb3bd4
+1188,,,,,,,,,A-ad64c6
+1189,,,,,,,,,A-3be56b
+1190,,,,,,,,,A-0baac2
+1191,,,,,,,,,A-0f3e88
+1192,,,,179.0,,,,,A-6e7827
+1193,,,,,,,,,A-1e1b80
+1194,,,,,,,,,A-d77f4c
+1195,,,,,,,,,A-bbc346
+1196,,,,,,,,,A-d42431
+1197,,,,,,,,,A-cc102e
+1198,,,,,,,,,A-42e5e1
+1199,,,,,,,,,A-1e1b80
+1200,,,,,,,,,A-e19ff6
+1201,,,,,,,,,A-34d880
+1202,,,,,,,,,A-9208f0
+1203,,,,,,,,,A-7f6b86
+1204,,,,,,,,,A-cc102e
+1205,,,,,,,,,A-56962b
+1206,,,,,,,,,A-7a0d69
+1207,,,,,,,,,A-c16cf7
+1208,,,,,,,,,A-2ebb4b
+1209,,,,,,,,,A-c37cab
+1210,,,,,,,,,A-9b9fe9
+1211,,,,,,,,,A-0651a4
+1212,,,,,,,,,A-3b37d9
+1213,,,,,,,,,A-5a3eb9
+1214,,,,,,,,,A-0a62f5
+1215,,,,,,,,,A-df1e44
+1216,,,,,,,,,A-4ae22a
+1217,,,,,,,,,A-ac85cd
+1218,,,,,,,,,A-bece89
+1219,,,,,,,,,A-ef84cf
+1220,,,,,,,,,A-84ebe4
+1221,,,,,,,,,A-6dee43
+1222,,,,,,,,,A-94f8c9
+1223,,,,,,,,,A-b179bf
+1224,,,,,,,,,A-7cfe77
+1225,,,,,,,,,A-e351e1
+1226,,,,,,,,,A-3f9cc0
+1227,,,,,,,,,A-ef84cf
+1228,,,,,,,,,A-439b2f
+1229,,,,,,,,,A-075038
+1230,,,,,,,,,A-d82ef9
+1231,,,,,,,,,A-d77f4c
+1232,,,,,,,,,A-e1462e
+1233,,,,,,,,,A-faa28c
+1234,,,,,,,,,A-08e34e
+1235,,,,,,,,,A-fd7ad3
+1236,,,,,,,,,A-86fc1d
+1237,,,,,,,,,A-832ec2
+1238,,,,,,,,,A-029f69
+1239,,,,,,,,,A-e83938
+1240,,,,,,,,,A-ccc747
+1241,,,,,,,,,A-8145a0
+1242,,,,,,,,,A-526d93
+1243,,,,,,,,,A-1b707d
+1244,,,,,,,,,A-cc102e
+1245,,,,,,,,,A-902ef7
+1246,,,,,,,,,A-798a3f
+1247,,,,,,,,,A-ad64c6
+1248,,,,,,,,,A-6f50ae
+1249,,,,,,,,,A-9208f0
+1250,,,,,,,,,A-0354fe
+1251,,,,,,,,,A-5ed98d
+1252,,,,,,,,,A-a09355
+1253,,,,,,,,,A-4437e4
+1254,,,,,,,,,A-c58f49
+1255,,,,,,,,,A-6f50ae
+1256,,,,,,,,,A-5ed98d
+1257,,,,,,,,,A-e351e1
+1258,,,,,,,,,A-2d1036
+1259,,,,,,,,,A-b30291
+1260,,,,,,,,,A-1f0ac7
+1261,,,,,,,,,A-712426
+1262,,,,,,,,,A-f25509
+1263,,,,,,,,,A-bcbe98
+1264,,,,,,,,,A-4c6f11
+1265,,,,,,,,,A-df10db
+1266,,,,,,,,,A-c1dfe1
+1267,,,,,,,,,A-3a7284
+1268,,,,,,,,,A-751c58
+1269,,,,,,,,,A-68f37c
+1270,,,,,,,,,A-533452
+1271,,,,,,,,,A-0baac2
+1272,,,,,,,,,A-b7724f
+1273,,,,,,,,,A-0dbdc6
+1274,,,,,,,,,A-4c6f11
+1275,,,,,,,,,A-54ecc2
+1276,,,,,,,,,A-b7ef83
+1277,,,,,,,,,A-922109
+1278,,,,,,,,,A-c43359
+1279,,,,,,,,,A-f25509
+1280,,,,,,,,,A-02cd81
+1281,,,,,,,,,A-67be94
+1282,,,,,,,,,A-ba6516
+1283,,,,,,,,,A-ee42db
+1284,,,,,,,,,A-ccb686
+1285,,,,,,,,,A-b7724f
+1286,,,,,,,,,A-5a3eb9
+1287,,,,,,,,,A-fd7ad3
+1288,,,,,,,,,A-a865bd
+1289,,,,,,,,,A-b7ef83
+1290,,,,,,,,,A-e83938
+1291,,,,,,,,,A-533452
+1292,,,,,,,,,A-ee42db
+1293,,,,,,,,,A-4f18f0
+1294,,,,,,,,,A-f6b2fb
+1295,,,,,,,,,A-d26ab4
+1296,,,,,,,,,A-05f0e5
+1297,,,,,,,,,A-d3c88e
+1298,,,,,,,,,A-104f1a
+1299,,,,,,,,,A-b2225d
+1300,,,,,,,,,A-5790f4
+1301,,,,,,,,,A-104f1a
+1302,,,,,,,,,A-ccc747
+1303,,,,,,,,,A-5f7781
+1304,,,,,,,,,A-e1b9cd
+1305,,,,,,,,,A-7988d1
+1306,,,,,,,,,A-2922b6
+1307,,,,,,,,,A-0baac2
+1308,,,,,,,,,A-71615e
+1309,,,,,,,,,A-9f0b68
+1310,,,,,,,,,A-9779ad
+1311,,,,,,,,,A-bb3bd4
+1312,,,,,,,,,A-f3ff05
+1313,,,,,,,,,A-425e76
+1314,,,,,,,,,A-fd7ad3
+1315,,,,,,,,,A-702032
+1316,,,,,,,,,A-dbc825
+1317,,,,,,,,,A-0a282f
+1318,,,,,,,,,A-e5d6ab
+1319,,,,,,,,,A-1f559b
+1320,,,,,,,,,A-ee42db
+1321,,,,,,,,,A-fce879
+1322,,,,,,,,,A-a8d89d
+1323,,,,,,,,,A-94d3da
+1324,,,,,,,,,A-b7ef83
+1325,,,,,,,,,A-aa9511
+1326,,,,,,,,,A-1e50e0
+1327,,,,,,,,,A-0a62f5
+1328,,,,,,,,,A-ae052e
+1329,,,,,,,,,A-118d55
+1330,,,,,,,,,A-b9eed8
+1331,,,,,,,,,A-c1e51e
+1332,,,,,,,,,A-7dacce
+1333,,,,,,,,,A-7dacce
+1334,,,,,,,,,A-32728c
+1335,,,,,,,,,A-463db0
+1336,,,,,,,,,A-118f1c
+1337,,,,,,,,,A-149a69
+1338,,,,,,,,,A-0a282f
+1339,,,,,,,,,A-0354fe
+1340,,,,,,,,,A-781cc0
+1341,,,,,,,,,A-9f0b68
+1342,,,,,,,,,A-029f69
+1343,,,,,,,,,A-c16cf7
+1344,,,,,,,,,A-39868b
+1345,,,,,,,,,A-4ef964
+1346,,,,,,,,,A-7cfe77
+1347,,,,,,,,,A-e351e1
+1348,,,,,,,,,A-fd7ad3
+1349,,,,,,,,,A-86902e
+1350,,,,,,,,,A-ccc747
+1351,,,,,,,,,A-ad64c6
+1352,,,,,,,,,A-d77f4c
+1353,,,,,,,,,A-db5e9e
+1354,,,,,,,,,A-751c58
+1355,,,,,,,,,A-68f37c
+1356,,,,,,,,,A-f45426
+1357,,,,,,,,,A-65aeb5
+1358,,,,,,,,,A-f25509
+1359,,,,,,,,,A-ccc747
+1360,,,,,,,,,A-b179bf
+1361,,,,,,,,,A-c16cf7
+1362,,,,,,,,,A-659280
+1363,,,,,,,,,A-76fa4d
+1364,,,,,,,,,A-0baac2
+1365,,,,,,,,,A-67be94
+1366,,,,,,,,,A-271f46
+1367,,,,,,,,,A-f1f639
+1368,,,,,,,,,A-0651a4
+1369,,,,,,,,,A-05d3b3
+1370,,,,,,,,,A-034368
+1371,,,,,,,,,A-5790f4
+1372,,,,,,,,,A-9779ad
+1373,,,,,,,,,A-6a7c9d
+1374,,,,,,,,,A-4d1e75
+1375,,,,,,,,,A-bece89
+1376,,,,,,,,,A-313be3
+1377,,,,,,,,,A-2e4581
+1378,,,,,,,,,A-fda07f
+1379,,,,,,,,,A-3d957b
+1380,,,,,,,,,A-bcf664
+1381,,,,,,,,,A-4ae22a
+1382,,,,,,,,,A-2d4502
+1383,,,,,,,,,A-4e0e85
+1384,,,,,,,,,A-039727
+1385,,,,,,,,,A-e7beab
+1386,,,,,,,,,A-d77f4c
+1387,,,,,,,,,A-180abf
+1388,,,,,,,,,A-4bfa33
+1389,,,,,,,,,A-34ea2f
+1390,,,,,,,,,A-37f969
+1391,,,,140.0,,,,,A-2e3bad
+1392,,,,,,,,,A-cd458b
+1393,,,,,,,,,A-32728c
+1394,,,,,,,,,A-a8b49c
+1395,,,,,,,,,A-2446e3
+1396,,,,,,,,,A-82d8a6
+1397,,,,,,,,,A-4e0e85
+1398,,,,,,,,,A-c1dfe1
+1399,,,,,,,,,A-712533
+1400,,,,,,,,,A-9f2731
+1401,,,,,,,,,A-65c341
+1402,,,,,,,,,A-5a3eb9
+1403,,,,,,,,,A-271f46
+1404,,,,,,,,,A-08e34e
+1405,,,,,,,,,A-02fac6
+1406,,,,141.0,,,,,A-439b2f
+1407,,,,,,,,,A-bf7919
+1408,,,,,,,,,A-3cc791
+1409,,,,,,,,,A-180abf
+1410,,,,,,,,,A-d535f6
+1411,,,,,,,,,A-751c58
+1412,,,,,,,,,A-922109
+1413,,,,,,,,,A-0b0d6d
+1414,,,,,,,,,A-425e76
+1415,,,,,,,,,A-558c72
+1416,,,,,,,,,A-9123ac
+1417,,,,,,,,,A-7a0d69
+1418,,,,,,,,,A-0cc442
+1419,,,,,,,,,A-e83938
+1420,,,,,,,,,A-5247b3
+1421,,,,,,,,,A-fce879
+1422,,,,,,,,,A-0cc442
+1423,,,,,,,,,A-029f69
+1424,,,,,,,,,A-533452
+1425,,,,,,,,,A-9f9299
+1426,,,,,,,,,A-104f1a
+1427,,,,,,,,,A-3793ee
+1428,,,,,,,,,A-e51ec7
+1429,,,,,,,,,A-cb5333
+1430,,,,,,,,,A-296d7c
+1431,,,,,,,,,A-9779ad
+1432,,,,,,,,,A-f6b2fb
+1433,,,,,,,,,A-f25509
+1434,,,,,,,,,A-b78bf8
+1435,,,,,,,,,A-96e141
+1436,,,,,,,,,A-ac85cd
+1437,,,,,,,,,A-9affe6
+1438,,,,,,,,,A-ad64c6
+1439,,,,,,,,,A-d3c88e
