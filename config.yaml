@@ -1,0 +1,27 @@
+Output_dir: "Dataset"
+
+datasets:
+  customers:
+    exclude_cols: ["customer_id"]
+    n_outliers: 17
+
+
+  accounts:
+    exclude_cols: ["account_id", "account_name"]
+    n_outliers: 34
+
+  churn_events:
+    exclude_cols: ["account_id"]
+    n_outliers: 12
+
+  feat_usage:
+    exclude_cols: []
+    n_outliers: 7
+    
+  subs:
+    exclude_cols: ["account_id"]
+    n_outliers: 12
+
+  sup_tix:
+    exclude_cols: ["account_id"]
+    n_outliers: 12
