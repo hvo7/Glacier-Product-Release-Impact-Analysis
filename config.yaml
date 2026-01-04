@@ -14,14 +14,14 @@ datasets:
     exclude_cols: ["account_id"]
     n_outliers: 12
 
-  feat_usage:
+  feature_usage:
     exclude_cols: []
     n_outliers: 7
     
-  subs:
+  subscriptions:
     exclude_cols: ["account_id"]
     n_outliers: 12
 
-  sup_tix:
+  support_tickets:
     exclude_cols: ["account_id"]
     n_outliers: 12
