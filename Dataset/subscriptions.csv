@@ -1,4 +1,4 @@
-0,1,2,3,4,5,6,7,8,9,10,11,12,13
+subscription_id,start_date,end_date,plan_tier,seats,mrr_amount,arr_amount,billing_frequency,account_id,auto_renew_flag,churn_flag,downgrade_flag,is_trial,upgrade_flag
 S-8cec59,2023-12-23,2024-04-12,Enterprise,14.0,2786.0,33432.0,monthly,A-3c1a3f,True,True,False,False,False
 S-0f6f44,2024-06-11,,Pro,17.0,833.0,9996.0,monthly,A-9b9fe9,True,False,False,False,False
 S-51c0d1,2024-11-25,,Enterprise,62.0,0.0,0.0,annual,A-659280,False,False,False,True,True

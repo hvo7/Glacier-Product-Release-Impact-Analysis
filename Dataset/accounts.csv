@@ -1,4 +1,4 @@
-0,1,2,3,4,5,6,7,8,9
+industry,country,signup_date,referral_source,plan_tier,seats,account_id,account_name,churn_flag,is_trial
 EdTech,US,10/16/2024,partner,Basic,9.0,A-2e4581,Company_0,False,False
 FinTech,IN,8/17/2023,other,Basic,18.0,A-43a9e3,Company_1,True,False
 DevTools,US,,organic,Basic,1.0,A-0a282f,Company_2,False,False

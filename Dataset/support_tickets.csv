@@ -1,4 +1,4 @@
-0,1,2,3,4,5,6,7,8
+ticket_id,submitted_at,closed_at,resolution_time_hours,priority,first_response_time_minutes,satisfaction_score,account_id,escalation_flag
 T-0024de,,2023-07-28 03:00:00,27.0,high,74.0,,A-712f1c,False
 T-4d04b9,2024-07-08,2024-07-09 03:00:00,27.0,urgent,144.0,,A-e43bf7,False
 t-d5e12f,2024-10-17,,19.0,urgent,93.0,4.0,A-0f3e88,False

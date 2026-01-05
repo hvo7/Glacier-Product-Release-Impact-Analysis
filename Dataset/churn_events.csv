@@ -1,4 +1,4 @@
-0,1,2,3,4,5,6,7,8
+churn_event_id,churn_date,reason_code,refund_amount_usd,feedback_text,account_id,is_reactivation,preceding_downgrade_flag,preceding_upgrade_flag
 C-816288,2024-10-27,pricing,4.03,switched to competitor,A-c37cab,False,False,False
 C-5a81e7,2024-06-25,support,113.0,,A-37f969,False,False,True
 C-a174be, 2024-11-12    ,budget,0.0,missing features,A-b07346,False,False,False

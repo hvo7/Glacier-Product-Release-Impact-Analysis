@@ -1,4 +1,4 @@
-0,1,2,3,4,5,6,7
+usage_id,subscription_id,usage_date,feature_name,usage_count,usage_duration_secs,error_count,is_beta_feature
 U-1c6c24,,2023-07-27,feature_20,9.0,5004.0,0.0,False
 U-f07cb8,,2023-08-07,feature_5,9.0,369.0,,False
 ,S-f29e7f,2023-12-07,feature_3,9.0,1458.0,0.0,False
